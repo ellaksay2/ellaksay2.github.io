@@ -32,7 +32,7 @@
       "name": "Giocomo Lab - Stanford University",
       "position": "Life Science Research Professional I",
       "url": "https://giocomolab.weebly.com",
-      "startDate": "August 2025",
+      "startDate": "2025",
       "endDate": "Present",
       "summary": "",
       "highlights": ["2-photon calcium imaging, behavioral tracking, data analysis"]
@@ -41,8 +41,8 @@
       "name": "Tye Lab - Salk Institute for Biological Studies",
       "position": "Undergraduate Researcher",
       "url": "https://tyelab.org",
-      "startDate": "April 2023",
-      "endDate": "August 2025",
+      "startDate": "2023",
+      "endDate": "2025",
       "summary": "",
       "highlights": ["Machine Leaning, RNAScope"]
     },
@@ -50,8 +50,8 @@
       "name": "McVicker Lab - Salk Institute for Biological Studies",
       "position": "Undergraduate Researcher",
       "url": "https://mcvicker.salk.edu",
-      "startDate": "August 2022",
-      "endDate": "April 2023",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "",
       "highlights": ["ATAC-seq, bioinformatics"]
     }
@@ -117,10 +117,12 @@
 
   "references": [
     {
-      "name": "Professor Lisa Giocomo"
+      "name": "Professor Lisa Giocomo",
+      "email": "giocomo@stanford.edu"
     },
     {
-      "name": "Professor Kay Tye"
+      "name": "Professor Kay Tye", 
+      "email": "tye@salk.edu"
     }
   ]
 }
