@@ -6,7 +6,7 @@ title: about
 
 Welcome! 
 
-I am a full-time research assistant in the [Giocomo Lab](https://giocomolab.weebly.com) at Stanford Univeristy. I use two-photon *in vivo* calcium imaging paired with virtual reality to study hippocampal neuron dynamics during navigation and social behavior. 
+I am a full-time research assistant in the [Giocomo Lab](https://giocomolab.weebly.com) at Stanford University. I use two-photon *in vivo* calcium imaging paired with virtual reality to study hippocampal neuron dynamics during navigation and social behavior. 
 
 I graduated from UC San Diego in 2024 with a B.S. in Bioinformatics and Computer Science. I was awarded the Louis Stokes Alliance Grant to fund my research on insular representations of physical and social pain in the [Tye Lab](https://tyelab.org) at the Salk Institute for Biological Studies. 
 
