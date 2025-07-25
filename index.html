@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ella Say</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1><a href="index.html">Ella Say</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="active">About</a></li>
+                    <li><a href="research.html">Research</a></li>
+                    <li><a href="blog.html">Blog Posts</a></li>
+                    <li><a href="teaching.html">Teaching</a></li>
+                    <li><a href="cv.html">CV</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="about" class="container">
+            <h2>About Me</h2>
+            <div class="profile-content">
+                <img src="profile-picture.jpg" alt="Your Profile Picture" class="profile-pic">
+                <div class="bio-text">
+                    <p>Welcome to my academic website! I am a [Your Field/Discipline] researcher passionate about [Your Main Research Interest]. Currently, I am a [Your Position, e.g., PhD Candidate, Postdoctoral Fellow, Assistant Professor] at [Your University/Institution].</p>
+
+                    <p>My work primarily focuses on [Specific Area 1] and [Specific Area 2], utilizing [Methodology/Approach]. I am particularly interested in [Key Question/Problem you address].</p>
+
+                    <p>Prior to this, I completed my [Previous Degree, e.g., M.A., B.Sc.] at [Previous Institution].</p>
+
+                    <p>Outside of my academic pursuits, I enjoy [Hobbies/Interests, optional, e.g., hiking, reading, playing music].</p>
+
+                    <p>Feel free to explore my research, blog, teaching materials, and CV using the navigation links above. You can also reach me at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="current-year"></span> email: esay at stanford dot edu</p>
+        </div>
+    </footer>
+
+    <script>
+        // Dynamically set the current year in the footer
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
