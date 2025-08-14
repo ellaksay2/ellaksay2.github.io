@@ -1,9 +1,21 @@
 ---
 layout: page
 title: for fun
-# permalink: /motivation/
+permalink: /motivation/
 ---
+# for fun!
 
-At UC San Diego I was an active member of the Club Triathlon Team and Women's Surf Collective. I also wrote and edited for the campus newspaper *The Guardian* and produced a weekly radio show called *Oh You Would Love It!*
+At UC San Diego, I was an active member of the Club Triathlon Team and Women's Surf Collective. I also wrote and edited for the campus newspaper *The Guardian* and produced a weekly radio show called *Oh You Would Love It!*
 
-A California girl, born-and-raised, I can often be found surfing, trail running, riding my bike or making banana bread. 
+<br>
+
+<div style="text-align: center;">
+
+  <img src="assets/images/surf.jpeg" alt="me" width="300">
+  <img src="assets/images/radio.jpeg" alt="me" width="400">
+  <img src="assets/images/bike2.JPG" alt="me" width="300">
+<div>
+
+<br>
+
+A California girl, born-and-raised, I can often be found surfing, trail running, or riding my bike. I enjoy public libraries, baking banana bread, crocheting hats, and hanging out with my family.

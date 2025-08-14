@@ -1,9 +1,10 @@
 ---
 layout: default
-title: teaching
-permalink: /teaching/
+title: motivation
+permalink: /motivation/
 
 ---
 
-# teaching
+# motivation
+
 
