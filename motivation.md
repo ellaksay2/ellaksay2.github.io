@@ -1,6 +1,6 @@
 ---
 layout: page
-title: motivation
+title: for fun
 # permalink: /motivation/
 ---
 

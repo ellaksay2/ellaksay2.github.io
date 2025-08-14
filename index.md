@@ -17,10 +17,8 @@ A California girl, born-and-raised, I can often be found surfing, trail running,
 <br>
 
 <div style="text-align: center;">
-  <img src="assets/images/bike2.JPG" alt="me" width="200">
 
-  <img src="assets/images/profile.jpeg" alt="me" width="200">
+  <img src="assets/images/grad_pic.jpeg" alt="me" width="600">
 
-  <img src="assets/images/surf.jpeg" alt="me" width="200">
 <div>
 

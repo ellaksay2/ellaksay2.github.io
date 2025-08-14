@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ellaksay2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BigBrainElla
 bluesky_username: bigbrainella
-# github_username:  juliagorman
+# github_username:  ellaksay2
 
 # Build settings
 theme: minima
@@ -36,7 +36,7 @@ plugins:
 header_pages:
   - index.md        # About page
   - research.md
-  - motivation.md
+  - fun.md
   # - teaching.md
   - cv.md
 
