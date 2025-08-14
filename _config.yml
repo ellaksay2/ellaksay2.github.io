@@ -36,9 +36,9 @@ plugins:
 header_pages:
   - index.md        # About page
   - research.md
-  - fun.md
-  # - teaching.md
+  - teaching.md
   - cv.md
+  - fun.md
 
 
 social_links:
