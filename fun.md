@@ -1,7 +1,7 @@
 ---
 layout: page
 title: for fun
-permalink: /motivation/
+permalink: /fun/
 ---
 # for fun!
 

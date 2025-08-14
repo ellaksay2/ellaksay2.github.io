@@ -1,7 +1,7 @@
 ---
 layout: default
 title: motivation
-permalink: /motivation/
+# permalink: /motivation/
 
 ---
 
