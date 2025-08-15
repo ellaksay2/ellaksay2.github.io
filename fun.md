@@ -11,9 +11,9 @@ At UC San Diego, I was an active member of the Club Triathlon Team and Women's S
 
 <div style="text-align: center;">
 
-  <img src="ellaksay2.github.io/assets/images/surf.jpeg" alt="me" width="300">
-  <img src="ellaksay2.github.io/assets/images/radio.jpeg" alt="me" width="400">
-  <img src="ellaksay2.github.io/assets/images/bike2.JPG" alt="me" width="300">
+  <img src="/assets/images/surf.jpeg" alt="me" width="300">
+  <img src="/assets/images/radio.jpeg" alt="me" width="400">
+  <img src="/assets/images/bike2.JPG" alt="me" width="300">
 <div>
 
 <br>
