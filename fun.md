@@ -1,9 +1,8 @@
 ---
 layout: page
-title: for fun
+title: for fun!
 permalink: /fun/
 ---
-# for fun!
 
 At UC San Diego, I was an active member of the Club Triathlon Team and Women's Surf Collective. I am passionate about human performance and increasing female representation in male-dominated sports. 
 
