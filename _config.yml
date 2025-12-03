@@ -36,7 +36,7 @@ plugins:
 header_pages:
   - index.md        # About page
   - research.md
-  # - teaching.md
+  - teaching.md
   - cv.md
   - fun.md
 
