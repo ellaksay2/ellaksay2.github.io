@@ -5,6 +5,6 @@ permalink: /cv/
 ---
 
 # cv/resume
-last updated aug 25
+last updated nov 25
 
-<iframe src="/assets/CV_Aug25.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
+<iframe src="/assets/CV_Nov25.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
