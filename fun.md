@@ -13,7 +13,6 @@ I also wrote and edited for the campus newspaper *The Guardian* and produced a w
 
 <div style="text-align: center;">
 
-  <img src="/assets/images/surf.jpeg" alt="me" width="300">
   <img src="/assets/images/radio.jpeg" alt="me" width="400">
 
 <div>
