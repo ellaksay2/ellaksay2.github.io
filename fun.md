@@ -10,7 +10,7 @@ I also wrote and edited for the campus newspaper *The Guardian* and produced a w
 
 I enjoy public libraries, curating playlists, baking banana bread, and crocheting hats.
 
-Because I love data, you can follow my meticulously tracked hobbies on my [strava] (https://www.strava.com/athletes/78348760) (if you're outdoorsy) or [storygraph] (https://app.thestorygraph.com/profile/ellaksay) (if you're a bookworm). 
+Because I love data, you can follow my meticulously tracked hobbies on my [strava] ( https://www.strava.com/athletes/78348760 ) (if you're outdoorsy) or [storygraph] ( https://app.thestorygraph.com/profile/ellaksay ) (if you're a bookworm). 
 
 
 <br>
