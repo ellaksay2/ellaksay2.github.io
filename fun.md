@@ -4,21 +4,13 @@ title: for fun!
 permalink: /fun/
 ---
 
-Because I love data, you can follow my meticulously tracked hobbies on my [strava]( https://www.strava.com/athletes/78348760 ) (if you're outdoorsy) or [storygraph]( https://app.thestorygraph.com/profile/ellaksay ) (if you're a bookworm). 
+As a triathlete, cyclist and surfer, I am passionate about human performance and increasing female representation in male-dominated sports. Check out my [strava]( https://www.strava.com/athletes/78348760 ) to see how I spend most of my free time.
 
-As a triathlete, cyclist and surfer, I am passionate about human performance and increasing female representation in male-dominated sports. 
+I enjoy public libraries (my [storygraph]( https://app.thestorygraph.com/profile/ellaksay ) if you are  a fellow bookworm), curating playlists, baking banana bread, and crocheting hats.
 
-While at UCSD, I also wrote and edited for the campus newspaper *The Guardian* and produced a weekly radio show called *Oh You Would Love It!*
-
-I enjoy public libraries, curating playlists, baking banana bread, and crocheting hats.
-
-
-<br>
-
-<div style="text-align: center;">
-
+<figure style="text-align: center;">
   <img src="/assets/images/radio.jpeg" alt="me" width="400">
-
-<div>
-
-<br>
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+    Hosting my weekly radio show, <em>Oh You Would Love It!</em> at UCSD
+  </figcaption>
+</figure>
