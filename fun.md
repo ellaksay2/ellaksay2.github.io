@@ -10,7 +10,7 @@ I enjoy public libraries (my [storygraph]( https://app.thestorygraph.com/profile
 
 <figure style="text-align: center;">
   <img src="/assets/images/radio.jpeg" alt="me" width="400">
-  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+  <figcaption style="font-size: 0.5em; color: #aaa; font-style: italic; margin-top: 8px;">
     Hosting my weekly radio show, <em>Oh You Would Love It!</em> at UCSD
   </figcaption>
 </figure>
