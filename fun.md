@@ -4,9 +4,12 @@ title: for fun!
 permalink: /fun/
 ---
 
-As a triathlete, cyclist and surfer, I am passionate about human performance and increasing female representation in male-dominated sports. Check out my [strava]( https://www.strava.com/athletes/78348760 ) to see how I spend most of my free time.
+When I'm not in lab, I can be found surfing in La Jolla or Santa Cruz, riding my bike, or at a local trivia night. 
 
-I enjoy public libraries (my [storygraph]( https://app.thestorygraph.com/profile/ellaksay ) if you are  a fellow bookworm), curating playlists, baking banana bread, and crocheting hats.
+If you're outdoorsy, add me on [strava]( https://www.strava.com/athletes/78348760 ).
+If you're a fellow bookworm, add me on [storygraph]( https://app.thestorygraph.com/profile/ellaksay ).
+
+If you also enjoy curating playlists, baking banana bread, and crocheting hats, email me, I'd love to meet.
 
 <br>
 
