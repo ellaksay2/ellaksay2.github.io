@@ -1,8 +1,8 @@
 ---
 layout: page
-title: for fun!
 permalink: /fun/
 ---
+
 
 When I'm not in lab, I can be found surfing, riding my bike, or at a local trivia night. If you also enjoy curating playlists, baking banana bread, and crocheting hats, I'd love to meet.
 
