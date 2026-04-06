@@ -21,4 +21,4 @@ I am broadly interested in studying how neuronal populations flexibly encode mem
 </figure>
 
 
-More details on my past work can be found on my CV or my [Google Scholar]([https://scholar.google.com/citations?user=ILHTQhkAAAAJ&hl=en](https://scholar.google.com/citations?user=ILHTQhkAAAAJ&hl=en&oi=ao)).
+More details on my past work can be found on my CV or my [Google Scholar]([https://scholar.google.com/citations?user=ILHTQhkAAAAJ&hl=en]).
