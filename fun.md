@@ -5,7 +5,7 @@ permalink: /fun/
 ---
 
 
-I like to run, bike, and swim [strava]( https://www.strava.com/athletes/78348760 ), read books [storygraph]( https://app.thestorygraph.com/profile/ellaksay ), and listen to music [spotify](https://open.spotify.com/user/ella.kathrin)
+I [trail running and road cycling]( https://www.strava.com/athletes/78348760 ), reading [books]( https://app.thestorygraph.com/profile/ellaksay ), and listening to [music](https://open.spotify.com/user/ella.kathrin)
 
 <figure style="text-align: center;">
   <img src="/assets/images/bike2.JPG"
