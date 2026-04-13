@@ -10,7 +10,7 @@ I am a full-time research assistant in the [Giocomo Lab](https://giocomolab.weeb
 
 I graduated from UC San Diego in 2024 with a B.S. in Bioinformatics and Computer Science. During my undergrad, I was awarded the NSF-funded Louis Stokes Alliance Grant to support my research on [insular representations of physical and social pain](https://www.biorxiv.org/content/10.1101/2025.05.09.653162v1) in the [Tye Lab](https://tyelab.org) at the Salk Institute for Biological Studies. 
 
-I care deeply about accessibility for underrepresented groups in STEM and am an advocate for open science communication. I aim to leverage these experiences and continue my research by pursing a PhD in Neuroscience starting Fall 2026. 
+I care deeply about accessibility for underrepresented groups in STEM and am an advocate for open science communication. I plan to start my PhD in Neuroscience at the University of Washington in Fall 2026, supported by the NSF Graduate Research Fellowship. 
 
 <br>
 
