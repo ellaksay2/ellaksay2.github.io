@@ -7,7 +7,7 @@ permalink: /research/
 
 # research
 
-I am broadly interested in studying how neuronal populations flexibly encode memories, particularly in spatial and social contexts. I am curious about studying this on a synaptic, network, and brain-wide scale using computational and systems techniques. 
+I am broadly interested in studying how neuronal populations flexibly learn new things and encode memories, particularly in spatial and social contexts. I am curious about studying this on a synaptic, network, and brain-wide scale using computational and systems techniques. 
 
 
 <figure style="text-align: center;">
@@ -21,4 +21,4 @@ I am broadly interested in studying how neuronal populations flexibly encode mem
 </figure>
 
 
-More details on my past work can be found on my CV or my [Google Scholar](https://scholar.google.com/citations?user=ILHTQhkAAAAJ&hl=en).
+More details on my past work can be found on my [CV](https://ellaksay2.github.io/cv/) or my [Google Scholar](https://scholar.google.com/citations?user=ILHTQhkAAAAJ&hl=en).
