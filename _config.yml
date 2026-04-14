@@ -39,7 +39,7 @@ header_pages:
   - research.md
   - teaching.md
   - cv.md
-  - fun.md
+  # - fun.md
 
 
 social_links:
