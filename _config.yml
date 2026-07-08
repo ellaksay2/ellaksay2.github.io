@@ -20,7 +20,7 @@
 
 title: Ella Say
 name: Ella Say
-author: email ~ esay at stanford dot edu
+author: email ~ esay at uw dot edu
 description: >- # this means to ignore newlines until "baseurl:"
    
 baseurl: "" # the subpath of your site, e.g. /blog
