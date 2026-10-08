@@ -6,6 +6,7 @@ title: outreach
 ---
 # 2026
 
+- **Cientifico Latino GSMI** *Graduate Student Mentor*
 - **Stanford CCOP Bootcamp** *Mentor*
   
 # 2025
