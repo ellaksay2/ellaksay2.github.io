@@ -6,7 +6,7 @@ title: about
 
 Welcome! 
 
-I am first-year Neuroscience PhD student at the University of Washington, supported by an NSF Graduate Research Fellowship. I am interested in studying learning and memory on a brain-wide and population scale using systems and computational techniques. 
+I am first-year Neuroscience PhD student at the University of Washington, supported by an NSF Graduate Research Fellowship and NIH Training Grant. I am interested in studying learning and memory on a brain-wide and population scale using systems and computational techniques. 
 
 Prior to UW, I worked as a full-time research assistant in the [Giocomo Lab](https://giocomolab.weebly.com) at Stanford University. I studied [hippocampal neuron dynamics during navigation](https://www.cell.com/neuron/fulltext/S0896-6273(26)00170-4) and social behavior. 
 
